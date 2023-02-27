@@ -1,0 +1,30 @@
+/*Estructura Principal*/
+
+.tarea-formulario {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 58px;
+  border: 1px solid #ff85b6;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+/*Campo de texto*/
+
+.tarea-input {
+  width: 70%;
+  background-color: #fda7ca;
+  margin-right: 10px;
+  text-align: justify;
+  padding-left: 8px;
+  border: 1px solid #fda7ca;
+  border-radius: 8px;
+}
+
+/*Boton Agregar Tarea*/
+
+.tarea-boton {
+  border-radius: 5px;
+  cursor: pointer;
+}
