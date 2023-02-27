@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tareas/static/css/main.0df0bda3.css",
+    "main.js": "/Tareas/static/js/main.7f10d517.js",
+    "static/js/787.f9c0fbae.chunk.js": "/Tareas/static/js/787.f9c0fbae.chunk.js",
+    "static/media/fresa.jpg": "/Tareas/static/media/fresa.ce77a526b634e3b8616d.jpg",
+    "index.html": "/Tareas/index.html",
+    "main.0df0bda3.css.map": "/Tareas/static/css/main.0df0bda3.css.map",
+    "main.7f10d517.js.map": "/Tareas/static/js/main.7f10d517.js.map",
+    "787.f9c0fbae.chunk.js.map": "/Tareas/static/js/787.f9c0fbae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df0bda3.css",
+    "static/js/main.7f10d517.js"
+  ]
+}
